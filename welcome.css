@@ -1,0 +1,19 @@
+.header1{
+    background-color: darkblue;
+    color: white;
+}
+.h-button{
+    background-color: #7277c6;
+    margin: 0px 10px;
+    border-radius: 30px 50px;
+    padding: 10px;
+}
+.h-button:hover{
+    background-color: skyblue;
+    color: black;
+    border-radius: 50px 30px;
+}
+.header{
+    color: white;
+    
+}

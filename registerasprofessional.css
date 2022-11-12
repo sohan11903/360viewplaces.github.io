@@ -1,0 +1,54 @@
+.header1{
+    background-color: darkblue;
+    color: white;
+}
+.h-button{
+    background-color: #7277c6;
+    margin: 0px 10px;
+    border-radius: 30px 50px;
+    padding: 10px;
+}
+.h-button:hover{
+    background-color: skyblue;
+    color: black;
+    border-radius: 50px 30px;
+}
+.header{
+    color: white;
+}
+
+
+.reg-title{
+    font-size: 3rem;
+
+}
+.reg-text{
+    font-size: 1.5rem;
+}
+
+
+.formargin{
+    margin-top: 2.5rem;
+}
+.box-1{
+    /* border: 2px solid black; */
+    margin: 60px auto;
+    width: 30%;
+
+}
+.box1img{
+    display: block;
+    height: 70px;
+    margin: 20px 0px;
+}
+.h-font{
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+.h1-font{
+    margin: 10px 0px;
+    font-size: 1.2rem;
+}
+
+
+
